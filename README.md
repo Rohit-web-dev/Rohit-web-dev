@@ -1,4 +1,4 @@
-![logo](https://github.com/Rohit-web-dev/Rohit-web-dev/blob/main/github-banner.png)
+![logo](https://github.com/Rohit-web-dev/Rohit-web-dev/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Rohit Kumar Pramanik</h1>
 <h3 align="center">A passionate react or frontend developer from India</h3>
